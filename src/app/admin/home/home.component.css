@@ -1,0 +1,9 @@
+body{
+    background-image: url(../../../../public/assets/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+p{
+    line-height: 5em;
+}
